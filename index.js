@@ -12,7 +12,8 @@ app.get("/", (req, res) => {
 app.get("/recipes", (req, res) => {
   res.send(allRecipes);
 });
-app.get("/recipes/:id", (req, res) => {
+// app.get("/recipes/:id", (req, res) => {
+app.get("/recipe/:id", (req, res) => {
   const id = req.params.id;
   console.log(id);
   const selectedNews2 = allRecipes.find((n) => n._id === id);
