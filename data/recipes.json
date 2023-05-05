@@ -1,146 +1,159 @@
 [
   {
     "_id": "6450e46704881e7bd9e14f2a",
+    "rating": { "number": 4.3, "badge": "Excellent" },
     "picture": "https://media.licdn.com/dms/image/C5603AQFYhfbTnMPVHQ/profile-displayphoto-shrink_800_800/0/1621716029075?e=2147483647&v=beta&t=z-_-hsO2d9ubuP16sfQB_s1FZ02g2j01DeGGTmp3nvs",
     "author": {
-      "ingredients ":"cardamom ,Black pepper,Broccoli,Black salt",
-      "recipe_name_1": "vagetable_1",
-      "recipe_name_2": "vagetable_2",
-      "recipe_name_3": "vagetable_3",
-      "published_date": "2022-08-24 17:27:34",
-      "imgRecipe_1": "https://images.unsplash.com/photo-1484980972926-edee96e0960d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_2": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_3": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    
+      "recipe_ingredients_1 ": "Ilish,Green Chilli ,Salt,Mustard oil,Shorshe Bata",
+      "recipe_ingredients_2 ": "Ilish,turmeric powder ,Salt,Mustard oil,Sour yogurt",
+      "recipe_ingredients_3 ": "Ilish,Ginger-garlic paste ,Ghee,Cardamom,Polao Chal",
+      "recipe_name_1": "Shorshe Bata Ilisher Jhal",
+      "recipe_name_2": "Doi Ilish",
+      "recipe_name_3": "Ilish Pulao",
+      "cooking_method_recipe_1": "Soak both kinds of mustard seeds in water, with salt, 1 tsp mustard oil and 2 green chilly, little turmeric powder for 2 hours and then make a fine paste of it (shorshe bata),Marinate Hilsa or Ilish with a little turmeric powder and salt for 30 minutes at least,Heat mustard oil in a pan,Shallow fry each sides of hilsa for about 3 – 4 minutes till golden and then keep aside,Add the mustard paste, poppy paste (shorshe, posto bata) and stir till the rawness and most of the water content goes away,Add 1 or more cup of water and bring it to boil,Add the fried Hilsa pieces and cover cook for about 10 minutes,dd salt and mix,Add slitted green chillies and simmer for 3 – 4 minutes or till the gravy is as per the desired consistency,Switch off the gas!",
+      "cooking_method_recipe_2":"To begin making the Doi Ilish Recipe, firstly marinate the fish with turmeric and salt. Keep it aside.,Heat oil in a heavy bottomed pan. Once the oil is mildly hot, add the fish and shallow fry them. Once done, take it out of the pan and keep it aside to cool it down.Once done, add the fried fish pieces in a mixing bowl along with turmeric powder, red chilli powder, whipped curd and just a pinch of salt. Mix everything properly and keep it aside for 10 minutes.To the same pan, add the rest of the oil, when smoking hot, throw in the nigella seeds and green chillies. When they stop spluttering, turn the heat to low and gently slide in the fish along with the marinade.Cook for a couple of minutes till the curd starts to release oil. Now add a little warm water to the mustard paste and add it to the yogurt mixture. Add this micxture to the pan and simmer for 4-5 minutes. Adjust the salt, give it a mix and serve hot.Serve Doi Ilish Recipe along with Steamed Rice and Kachumber Salad for a weekday meal. You can also make this delicious Bengali Style Fish Gravy for your house parties with other Bengali dishes.",
+      "cooking_method_recipe_3":"Heat ghee+oil . Add the sliced onion and whole garam masala ( bay leaf, cinnamon, cardamom). When the onions are little brown add the ginger paste, salt and rice . Fry them well . Add the gravy into it . Mix well .It would spread the flavor of Ilish in every grain of polau. Now add 4 and half cup of hot water into the rice ( for every cup of rice , take 1 and half cup of water). Cover the lid and cook it on medium flame. When the water is drying out, add handful of green chilies and reduce the heat a little . When the water dried out and your pulao is ready arrange the fish pieces on the top of the polau , cover the lid and place it on very low flame , which we call to keep on “dom”.Be careful while serving . Take out the fish from the top of the polau . Take a serving dish and arrange polau and fish layer by layer . Take some polau and add few pieces of fish, cover it with layer of polau and place remaining pieces of fish on the top of it . Garnish it with Fried onion/ Bereshta .",
+      "imgRecipe_1": "https://kitchenofdebjani.com/wp-content/uploads/2017/04/DSC_0085.jpg",
+      "imgRecipe_2": "https://pikturenama.com/wp-content/uploads/2018/07/Doi-Ilish-with-logo-1.jpg",
+      "imgRecipe_3": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/04/Ilish-pulao.jpg"
     },
     "numberRecipes": 28,
     "name": "Fatima",
     "experience": "Five Years",
     "like": "20k",
-    "gender": "male",
-    "company": "APPLICA",
-    "email": "vaughnfarmer@applica.com",
-    "phone": "+1 (837) 437-3913",
-    "address": "465 Applegate Court, Sylvanite, West Virginia, 6042",
-    "about": "Do minim in proident officia cupidatat nisi velit proident in. Eu cillum magna enim do magna incididunt ex irure nisi deserunt in eiusmod. Reprehenderit officia minim sit nostrud ea non laboris aliquip dolore culpa dolor. Nostrud ea anim dolore elit non. Et laboris excepteur velit nisi reprehenderit esse irure qui amet consequat dolor ad do laboris. Nostrud et velit aute exercitation sit sunt adipisicing velit.\r\n"
+
+    "about": " Fatima is the executive chef of Buffet Dhaka., a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine."
   },
   {
     "_id": "6450e467fee8d00a1659a68e",
+    "rating": { "number": 4.5, "badge": "Excellent" },
     "picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
     "numberRecipes": 25,
     "author": {
-      "ingredients ":"cardamom ,Black pepper,Broccoli,Black salt",
-      "recipe_name_1": "vagetable_1",
-      "recipe_name_2": "vagetable_2",
-      "recipe_name_3": "vagetable_3",
-      "published_date": "2022-08-24 17:27:34",
-      "imgRecipe_1": "https://images.unsplash.com/photo-1484980972926-edee96e0960d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_2": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_3": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+   
+      "recipe_ingredients_1 ":  "Beef ,dark soy sauce ,ginger-garlic-onion pest,coriander,Mustard oil ",
+      "recipe_ingredients_2 ":  "Beef ,chili powder,Plao chal,ginger-garlic-onion pest,Ghe",
+      "recipe_ingredients_3 ":  "Chui jhal ,Beef,ginger-garlic-onion pest,Black salt, cardamom",
+      "recipe_name_1": "Beef Kala Bhuna",
+      "recipe_name_2": "Beef Biriyani",
+      "recipe_name_3": "Beef Chui Jhal",
+      "cooking_method_recipe_1":"Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves , plain yogurt and 1 tsp sugar  and saute for 5-10 min. Then add fried onion and cover it to cook for 3 hrs or you can put them inside a pressure cooker and cook for 20-30 min.  Once cooked then keep stirring until all water dries up.Heat oil in another fry pan, add mustard oil, ghee, green chili .Add cooked beef and stirring continuously. Next add kala vuna masala mix   ",
+      "cooking_method_recipe_2":"Heat oil in a pan. Add bay leaves, cinnamon, cardamom, and black pepper. Stir for some time.Then add onion slice and stir until it turns slightly brown.Add onion paste and stir very well until the raw smell goes away.Add garlic paste, ginger paste, and cumin paste and stir very well for some time.Add salt, little water, red chili powder, turmeric powder, and coriander powder. Fry until the raw smell disappears.Wash, drain, and add beef.Mix well. Keep stirring for 2-3 mins.Close the lid and cook for 5 minutes. Stir occasionally.Add nutmeg powder and mace powder. Give a good mix.Close the lid and cook for 20 minutes. Stir occasionally.Add 3 cups of hot water. Stir and close the lid. Cook for 30 mins. Take aside after 30 minutes or when beef is cooked.and mix rice with beef and sarve",
+      "cooking_method_recipe_3": "Take a stem/twig/root of Chui. Peel the skin.Cut them into pieces around 1 1/2-inch long. Wash them properly.Turn off the stove. In a pan take beef (cleaned). The beef pcs should be slightly larger than usual.Add onion slices, ginger paste, garlic paste, cumin paste, turmeric powder, red chili powder, coriander powder, salt, nutmeg powder, mace powder, oil, bay leaves, cinnamon, cardamom, black pepper, and cloves.Mix well using the hand. The beef should be mixed with masala very well. The better the mixing, the better the taste. Add water (a little), washing the spices.Close the lid and turn on the stove. Cook for 15 minutes (medium heat). Stir occasionally.Add dried chilies. Give a stir. Cook for 15 minutes (medium heat). Stir occasionally.When oil separates, add chui pcs. Give a stir.Add whole garlic. Do not cut all the garlic roots. put a layer of the peel on the garlic. Give a stir. Cook for 5 minutes (medium heat).Add 3 cups of hot water. Close the lid. Cook for 40 minutes (medium-low heat). Stir occasionally.Add cumin powder. Give a good mix. Cook for another 10 minutes (low heat).When oil separates, the beef chui jhal is ready to serve.Serve hot!",
+
+      "imgRecipe_1": "https://static.wixstatic.com/media/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg/v1/fill/w_740,h_438,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/05c508_5cf0028922b34244a5913784d2e337c9~mv2_d_2166_1282_s_2.jpg",
+      "imgRecipe_2": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/bt3llwt0c7o4juscxfai",
+      "imgRecipe_3": "https://cookishcreation.com/wp-content/uploads/2021/05/Beef-Chui-Jhal.jpg"
     },
     "name": "Anisur Rahman",
     "experience": "Four Years",
     "like": "10k",
-    "gender": "female",
-    "company": "ZOGAK",
-    "email": "emmagrimes@zogak.com",
-    "phone": "+1 (962) 443-2019",
-    "address": "831 Bulwer Place, Bayview, Florida, 6934",
-    "about": "Aliquip qui anim dolor qui consectetur officia occaecat. Non adipisicing voluptate esse ut nostrud enim nisi ut consequat amet non. Incididunt nostrud velit elit qui deserunt non cillum labore pariatur exercitation irure magna amet. Tempor eu sit officia commodo ut ullamco minim do qui. Deserunt sint quis laborum laboris dolore labore aliqua commodo. Amet commodo nisi nostrud esse amet magna non elit anim deserunt laborum.\r\n"
+
+    "about": "Chef Anisur Rahman is a well-renowned pastry chef in Bangladesh . he first rose to prominence when his Beef Biriyani was awarded Best of Show at the San Diego Food and Beverage Festival. Since then she has been mastering her craft and designing tasty treats for the people."
   },
   {
     "_id": "6450e467c0afaee727bd8c79",
+    "rating": { "number": 4.7, "badge": "Excellent" },
     "picture": "https://media.licdn.com/dms/image/C5603AQGLluqwuKFG9g/profile-displayphoto-shrink_800_800/0/1642929855353?e=2147483647&v=beta&t=GpBjvpRaF-8LcIrNfILexr5GuiqfLfFjbc1lECCmf6k",
     "numberRecipes": 33,
     "author": {
-      "ingredients ":"cardamom ,Black pepper,Broccoli,Black salt",
-      "recipe_name_1": "vagetable_1",
-      "recipe_name_2": "vagetable_2",
-      "recipe_name_3": "vagetable_3",
-      "published_date": "2022-08-24 17:27:34",
-      "imgRecipe_1": "https://images.unsplash.com/photo-1484980972926-edee96e0960d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_2": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_3": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+   
+      "recipe_ingredients_1 ":  "Chicken ,Plao Rice,eggs & lightly beaten,peas and carrots thawed",
+      "recipe_ingredients_2 ":  "chicken ,Potato,masala powde,ginger-garlic-onion pest, turmeric powder",
+      "recipe_ingredients_3 ":  "Chicken ,Salt and black pepper,olive oil,Marsala wine,cumin powder",
+      "recipe_name_1": "Chicken Fried Rice",
+      "recipe_name_2": "Potato Chicken Curry",
+      "recipe_name_3": "Chicken Biriyani",
+      "cooking_method_recipe_1": "Rinse 1 cup of uncooked long grain white rice in cold water until the water runs clear. Drain the rice and transfer it to a medium saucepan.Add 1 1/2 cups of water to the saucepan and bring it to a boil. Reduce the heat to low, cover the saucepan, and let the rice simmer for about 18-20 minutes or until the water is absorbed and the rice is tender.Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat. Add 1 pound of boneless, skinless chicken breast cut into small pieces to the skillet, season with 1/2 teaspoon of salt and 1/4 teaspoon of black pepper, and cook for 5-7 minutes or until the chicken is cooked through. Remove the chicken from the skillet and set it aside.Push the vegetables to the side of the skillet, add 2 beaten eggs to the empty space, and scramble the eggs until they are cooked through.Add the cooked chicken to the skillet, along with the cooked rice, 3 tablespoons of soy sauce, and 1 tablespoon of oyster sauce (optional). Stir everything together and cook for another 2-3 minutes or until the rice is heated through.",
+      "cooking_method_recipe_2": "Heat 2 tablespoons of vegetable oil in a large pot or Dutch oven over medium-high heat.softened and lightly browned.Add 4 cloves of minced garlic, 1 inch of grated ginger, and 2 sliced green chillies to the pot. Stir-fry for about a minute or until the garlic is fragrant.Add 1 kg of chicken pieces to the pot and season with salt to taste. Cook the chicken for 5-7 minutes or until it is browned on all sides.Add 1 teaspoon of cumin powder, 1 teaspoon of coriander powder, 1/2 teaspoon of turmeric powder, and 1/2 teaspoon of red chilli powder to the pot. Stir everything together and cook for another minute.Reduce the heat to low, cover the pot, and let the curry simmer for about 20-25 minutes or until the chicken is cooked through and the potatoes are tender.Stir in 1/2 teaspoon of garam masala powder and cook for another minute.Now, add 70 per cent cooked basmati rice in it. Above the rice layer, add brown or fried onion, ghee and saffron water (saffron soaked in 2 tbsp water) and a little water.Knead a quick dough with wheat flour and seal the handi with this dough, and then cover with a lid. Let the biryani stay like this for 20 minutes. This will give the perfect dum to the biryani. Serve it hot with raita.",
+      "cooking_method_recipe_3": "Prepare the marinade and let the chicken marinate for an hour To prepare this Mughlai recipe, take a large bowl mix chicken with yoghurt (curd), fried onion, red chilli powder, salt, coriander leaves, mint leaves, ginger and garlic paste. Mix all the ingredients well and let the chicken marinate for about 2 hours. When the chicken is marinated, add garam masala in it Once the chicken is marinated, melt ghee in a handi over medium flame. When ghee is melted, add marinated chicken in it and fry for 2-3 minutes. Then, add water to it and cook the chicken on a low-medium flame. Put the lid on the vessel once the chicken is cooked.",
+      "imgRecipe_1": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/05/chicken-fried-rice.jpg",
+      "imgRecipe_2": "https://rasamalaysia.com/wp-content/uploads/2009/02/chickencurry-1.jpg",
+      "imgRecipe_3": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg"
     },
     "name": "Ahsan Habib",
     "experience": "Eight Years",
     "like": "15k",
-    "gender": "male",
-    "company": "CINESANCT",
-    "email": "jacobswheeler@cinesanct.com",
-    "phone": "+1 (827) 400-3703",
-    "address": "230 Morgan Avenue, Wright, South Dakota, 8085",
+  
     "about": "Elit commodo laboris dolor irure sunt non officia ut duis. Deserunt cillum deserunt sunt amet anim eu do ullamco eiusmod. Id fugiat duis commodo reprehenderit laborum aute exercitation. Aute deserunt officia duis ex nulla mollit in mollit laboris nostrud cillum magna excepteur.\r\n"
   },
   {
     "_id": "6450e4678c29f7cbf41f4cc6",
+    "rating": { "number": 4.2, "badge": "Excellent" },
     "picture": "https://tmhmi.org/wp-content/uploads/2021/12/single-chef.jpg",
     "numberRecipes": 20,
     "author": {
-      "ingredients ":"cardamom ,Black pepper,Broccoli,Black salt",
-      "recipe_name_1": "vagetable_1",
-      "recipe_name_2": "vagetable_2",
-      "recipe_name_3": "vagetable_3",
-      "published_date": "2022-08-24 17:27:34",
-      "imgRecipe_1": "https://images.unsplash.com/photo-1484980972926-edee96e0960d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_2": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_3": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+   
+      "recipe_ingredients_1 ":  "Fish ,Mustard Oil,Chopped Onion,salt,Coriander leaves",
+      "recipe_ingredients_2 ":  "Brinjal ,Dry chill,Garlic , salt,Corainder leaves",
+      "recipe_ingredients_3 ":  "Tomato ,lime juice,onion,Mustard Oil",
+      "recipe_name_1": "Fish Vorta",
+      "recipe_name_2": "Brinjal vorta",
+      "recipe_name_3": "Tomato vorta",
+      "cooking_method_recipe_1": "Boil the fish fillets in a pot of salted water for 5-7 minutes or until cooked through. Drain and let cool.Remove the skin and bones from the fish and mash the flesh using a fork or your hands. Set aside.Add the ginger paste, cumin powder, coriander powder, turmeric powder, and red chili powder to the pan. Fry for another 2-3 minutes.Cook for 5-7 minutes, stirring occasionally, until the fish is heated through and the spices are well blended.ransfer the fish mixture to a food processor or blender and pulse a few times to create a smooth paste. Be careful not to overdo it, you want a slightly chunky texture.",
+      "cooking_method_recipe_2": "Roast dry red chilli on a heated pan, cook time 2-3 minutes, until they are slightly burnt on all sidesWash and cut eggplant into thick slices. Rub mustard oil on each side of the slices and roast it on a heated pan, medium flame. Roast until the eggplant is soft. Add garlic cloves and allow it to roast on each side under closed lid. This should take 5-7 minutes. Mash by hand the remaining ingredients , roasted dry red chilli with salt as per taste, followed by chopped onions and roasted garlic. Add mustard oil and mix all ingredients well. Add mashed eggplant and coriander leaves, continue to mash until everything is thoroughly mixed.   .",
+      "cooking_method_recipe_3": "Add tomatoes to a pot along with sliced onions, salt, turmeric, coriander, lime juice, and oil,Pour water ,Cover with lid and cook for 6 minutes ,Add minced garlic, and green chilies,Cook for another 6 minutes, Finish off with fresh coriander and lime juice",
+      "imgRecipe_1": "https://akkbd.com/wp-content/uploads/2019/12/taki-mas-168830-696x400.jpg",
+      "imgRecipe_2": "https://www.shutterstock.com/image-photo/baingan-bharta-roasted-mashed-eggplant-260nw-1837782355.jpg",
+      "imgRecipe_3": "https://i.ytimg.com/vi/s0_9pUldnRk/maxresdefault.jpg"
     },
     "name": "Liton",
     "experience": "Six Years",
     "like": "18k",
-    "gender": "male",
-    "company": "CENTREE",
-    "email": "barkerhodge@centree.com",
-    "phone": "+1 (861) 463-2423",
-    "address": "295 Times Placez, Chloride, Rhode Island, 6185",
-    "about": "Cupidatat magna ullamco in commodo duis aliqua esse magna mollit officia laborum do anim. Officia sint proident dolor quis amet. Irure eu magna veniam anim ea incididunt anim eu voluptate Lorem.\r\n"
+  
+    "about": "Liton is the executive chef at ,Bistro Dhaka a popular sushi bar and restaurant in Seattle. With an unparalleled ability to craft amazing rolls, sushi dishes, and sashimi, he has become one of the most sought-after sushi chefs in the Bangladesh Kitchen."
   },
   {
     "_id": "6450e467c702294905040255",
+    "rating": { "number": 3.9, "badge": "Excellent" },
     "picture": "https://media.licdn.com/dms/image/C4E03AQFx-vucElY-9A/profile-displayphoto-shrink_800_800/0/1598364165337?e=2147483647&v=beta&t=0L_FF6vKXoK0pB99bB08rNKPcPAU1QVTI6QeCOlEy6U",
     "numberRecipes": 26,
     "author": {
-      "ingredients ":"cardamom ,Black pepper,Broccoli,Black salt",
-      "recipe_name_1": "vagetable_1",
-      "recipe_name_2": "vagetable_2",
-      "recipe_name_3": "vagetable_3",
-      "published_date": "2022-08-24 17:27:34",
-      "imgRecipe_1": "https://images.unsplash.com/photo-1484980972926-edee96e0960d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_2": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_3": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+   
+      "recipe_ingredients_1": "Milk  ,Plao Chal ,Sugar ,Nuts ,Cardamom Powde",
+      "recipe_ingredients_2": "moog dal ,Fish Head,mustard oil,ginger paste, salt",
+      "recipe_ingredients_3": "Pui Saag ,Masoor Dal,mustard oil, salt,onion",
+      "recipe_name_1": "Plao Chaler Payesh",
+      "recipe_name_2": "Mug Dal Fish Head",
+      "recipe_name_3": "Pui Saag diye Masoor Dal",
+      "cooking_method_recipe_1": "1 liter of whole milk in a heavy bottom pan over medium-high heat and bring it to a boil. Stir very frequently to avoid the milk from scorching at the bottom of the pan.Add the rice to the pan and cook until the rice is nicely cooked and the payesh has thickened (35-40 minutes). Stir frequently while cooking.Garnish the payesh with 10-12 chopped cashew nuts, 10-12 slivered pistachios, and 10-12 slivered almonds. I also like to use some dried rose petals for a pop of color.",
+      "cooking_method_recipe_2": "Marinate the cleaned fish head with salt and turmeric.Set aside.Heat a thick bottomed korai or wok and dry roast the moog dal while continuously stirring on medium heat. We want the dal to be evenly pinkish brown.Transfer to a pot and wash with cold water to stop cooking further.Wash the roasted dal, then drain the water. Add 5 grams of salt and 500 gram water and set it to boil, partially covered with a lid until the dal is cooked but still holds shape. The dal should not break because it is going to cook again with the fish headHeat mustard oil in a pan and fry the fish head on low heat until well browned on all sides. Set aside the fried fish head on a plate.Heat mustard oil in korai, and temper with dried red chillies, bay leaves, whole cardamom, cloves, cinnamon and cumin.Take out 2 tablespoons of the liquid from the top of the dal. Mix this thoroughly with a quarter teaspoon of atta (whole wheat flour) in a bowl. Add this back to the korai. This atta will help thicken the dal and prevent the water and the dal from completely separating when",
+      "cooking_method_recipe_3": "Wash Red Lentil or Masoor Dal under running water 2-3 times.Cut Pui Saag/ Malabar Spinach into big chunks. Use both the leaves and stem.Now heat the Mustard Oil in a Pressure cooker and start frying the Onion.Add crushed Garlic and cook for around 2-3 minutes.Add chopped Malabar Spinach and again mix and cook for 2 minutes in low flame.ut the vent weight and cook on low flame until 3 whistles come out.witch the flame off and wait till the pressure drops.Open the lid and add 1 Tsp. of Mustard Oil and cook for 2 minutes without the lid on",
+      "imgRecipe_1": "https://aahaaramonline.com/wp-content/uploads/2018/09/Bengali_Chaler_Payesh.jpg",
+      "imgRecipe_2": "https://1.bp.blogspot.com/-eWzYmi92ypU/VSEkuQOKlFI/AAAAAAAAAOM/18WgsKakmT0/s1600/IMG_8316%2B-%2Bresize.JPG",
+      "imgRecipe_3": "https://1.bp.blogspot.com/-zUac9fF769U/VSJJXV5FTMI/AAAAAAAAAPk/dJ-WQNmUAFA/s1600/IMG_8285%2B-%2Bresize.JPG"
     },
     "name": "Farzana",
     "experience": "Three Years",
     "like": "16k",
-    "gender": "male",
-    "company": "ZOID",
-    "email": "rayclayton@zoid.com",
-    "phone": "+1 (840) 477-2616",
-    "address": "330 Matthews Court, Dyckesville, Nevada, 679",
-    "about": "Nisi incididunt mollit officia voluptate veniam veniam anim ullamco incididunt ea irure exercitation. Commodo enim culpa occaecat in adipisicing ullamco minim pariatur sit occaecat sunt. In velit do proident aute consequat dolor eu aliquip aliqua anim eu Lorem.\r\n"
+  
+    "about": "Farzana has always had a passion for food. After graduating from the Cooking Institute of Bangladesh, she quickly made a name for himself in  food industry. With her high standards and bold flavors, she aims to bring satisfaction to every customer."
   },
   {
     "_id": "6450e467fddd1e04ad180999",
+    "rating": { "number": 3.8, "badge": "Excellent" },
     "picture": "https://media.licdn.com/dms/image/C4E03AQGmHeUah_w3Tw/profile-displayphoto-shrink_800_800/0/1616220682845?e=2147483647&v=beta&t=Er-cyNOabncEKBawVMU31MQ3trKb5lz7BVPogzsXW9U",
     "numberRecipes": 29,
     "author": {
-      "ingredients ":"cardamom ,Black pepper,Broccoli,Black salt",
-      "recipe_name_1": "vagetable_1",
-      "recipe_name_2": "vagetable_2",
-      "recipe_name_3": "vagetable_3",
-      "published_date": "2022-08-24 17:27:34",
-      "imgRecipe_1": "https://images.unsplash.com/photo-1484980972926-edee96e0960d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_2": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "imgRecipe_3": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    
+      "recipe_ingredients_1": "Egg ,turmeric powder,ginger paste,oil,salt",
+      "recipe_ingredients_2": "Dry fish ,Garlic ,Onion ,Coriander powder, salt",
+      "recipe_ingredients_3": "Vagetable ,vegetable oil,Garlic,turmeric powder, salt",
+      "recipe_name_1": "Egg Vuna",
+      "recipe_name_2": "Dry Fish Vuna",
+      "recipe_name_3": "Vagetable Curray",
+      "cooking_method_recipe_1": "Eggs need to be hard boiled, add eggs to a pot with just enough water to cover the eggs. Add salt and boil on medium high flame for 12-15 minutes Once boiled drain the water and soak eggs in ice cold water for easy peeling Make a few long slits along the length of the eggs, not too deep and sprinkle with a pinch of turmeric powder In a medium sized pot add 3-4 tablespoons of oil with the onions, ginger/garlic paste and salt Lower the flame and add in the spices on by one, turmeric, chili, coriander and curry powder Stir well and add a 1/4 cup of hot water. Cook the spices on a medium low flame for a minute or 2 until some of the oil starts to come to the surface of the pan Add in the fried hard boiled eggs, stir and cook on a medium flame for an addition 4-5 minutes",
+      "cooking_method_recipe_2": "Saute the dry fish in a pan for 3-4 minutes and then boil them in water for around 3-4 minutes Drain the water through a strainer. Then break the fish with hand. If you want you can remove the fish bone.Now heat the oil in a pan. Add the chopped garlic and fry them for few seconds. Then add the chopped onion and fry until onion become tender.Add the chopped tomato, green chili, red chili powder, turmeric powder, cumin powder, coriander powder and salt. Fry them until oil start to come out from masala.Then add the boiled fish and mix them with masala for few minutes. Add little water and cover the pan. Cook it for around 5 minutes.Then uncover the pan and cook it for another few minutes to reduce all the water.Add the chopped coriander leaf and stir. Then turn of the heat.",
+      "cooking_method_recipe_3": "Heat oven to 200C/180C fan/gas 6. Toss the potato, squash and aubergine with 2 tbsp curry paste and 2 tbsp oil in a large roasting tin. Season, then roast for 30 mins. Meanwhile, make the sauce. Fry the onions in the remaining oil in a large pan until softened and golden – add a splash of water if they start to dry out. Stir in the remaining curry paste, cook for 3 mins, then add the passata, coconut milk and 100ml water. Simmer for a few mins. When the vegetables are roasted, tip them into the sauce with the peppers and courgettes. Simmer for 10-15 mins until tender. Scatter with coriander and serve.",
+      "imgRecipe_1": "https://i0.wp.com/cookingcanary.com/wp-content/uploads/2021/11/Din-Bhuna-Egg-curry-.jpg?w=600&ssl=1",
+      "imgRecipe_2": "https://3.bp.blogspot.com/-YaWi-gfL0Hw/T-d5v-pGLaI/AAAAAAAAAYM/Ct5p3Qr0pTM/s1600/loitta_shutki.JPG",
+      "imgRecipe_3": "https://www.acouplecooks.com/wp-content/uploads/2020/02/Vegetable-Curry-001.jpg"
     },
     "name": "Rubel",
     "experience": "Ten Years",
     "like": "12k",
-    "gender": "female",
-    "company": "ACCUPHARM",
-    "email": "colettemcknight@accupharm.com",
-    "phone": "+1 (937) 496-3579",
-    "address": "643 Kossuth Place, Wheaton, Oklahoma, 8466",
-    "about": "Mollit exercitation nulla reprehenderit culpa eu mollit commodo. Reprehenderit culpa labore cillum consequat aute incididunt aliqua nisi id. Minim tempor aute nulla laboris laboris aute est id. Deserunt nulla in nulla nostrud pariatur dolor aliqua. Officia aute nostrud exercitation in est culpa minim.\r\n"
+  
+    "about": "Rubel is a rising star in the Portland culinary scene. He’s the creative force behind the award-winning restaurant, (Restaurant name), and is known for his flair for combining flavors from around the world."
   }
 ]

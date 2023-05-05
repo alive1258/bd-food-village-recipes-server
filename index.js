@@ -7,17 +7,17 @@ const allRecipes = require("./data/recipes.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.json({ massage: "hello" });
+  res.send('recipes is comming');
 });
 app.get("/recipes", (req, res) => {
   res.send(allRecipes);
 });
-// app.get("/recipes/:id", (req, res) => {
-app.get("/recipe/:id", (req, res) => {
+
+app.get("/recipes/:id", (req, res) => {
   const id = req.params.id;
   console.log(id);
-  const selectedNews2 = allRecipes.find((n) => n._id === id);
-  res.send(selectedNews2);
+  const selectedRecipe = allRecipes.find((n) => n._id === id);
+  res.send(selectedRecipe);
 });
 
 app.listen(port, () => {
